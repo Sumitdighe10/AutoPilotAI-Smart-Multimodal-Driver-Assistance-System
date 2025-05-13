@@ -130,9 +130,3 @@ Use Android Studio or VS Code to:
 **Sumit Dighe**
 Graduate Student – MS in Data Science, Indiana University Bloomington
 [GitHub](https://github.com/Sumitdighe10) | [LinkedIn](https://www.linkedin.com/in/sumit-dighe-043583206/)
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License.
